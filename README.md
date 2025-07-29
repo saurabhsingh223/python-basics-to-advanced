@@ -16,8 +16,8 @@ This repository contains my personal Python learning notes, practice codes, and 
 
 ## 🛠 Tools Used
 - Python 3.x
-- VS Code
-- Jupyter Notebook (for some topics)
+- PyCharm
+- Google Collab
 
 ## 🧑‍💻 Author
 **Saurabh Kumar Singh**  
